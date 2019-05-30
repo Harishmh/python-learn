@@ -6,3 +6,6 @@ price = 10
 print(price)
 
 print('harish mh')
+
+
+print(42 == 42)
